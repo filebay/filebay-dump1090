@@ -1,0 +1,25 @@
+{
+  "name": "filebay-dump1090",
+  "version": "1.0.0",
+  "description": "Connects to a Beast Binary (ADSB) feed from dump1090 and displays data for a specified duration",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filebay/filebay-dump1090.git"
+  },
+  "keywords": [
+    "dump1090",
+    "Beast Binary",
+    "ADS-B"
+  ],
+  "author": "FileBay Inc. - Sherif M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filebay/filebay-dump1090/issues"
+  },
+  "homepage": "https://github.com/filebay/filebay-dump1090#readme"
+}
